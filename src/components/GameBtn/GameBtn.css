@@ -1,0 +1,22 @@
+.game-btn-wrapper {
+  width: 100%;
+}
+.game-btn {
+  width: 150px;
+  height: 50px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background: black;
+  box-sizing: border-box;
+  border: 1px solid black;
+  color: white;
+}
+.game-btn:hover {
+  background: white;
+  color: black;
+}
+.game-btn-text {
+  text-align: center;
+  box-sizing: border-box;
+  cursor: pointer;
+}

@@ -1,0 +1,130 @@
+.bingo-box {
+  position: relative;
+  float: left;
+  width: 500px;
+  height: 510px;
+  margin: 20px;
+  border: 1px solid black;
+}
+.complete0 {
+  position: absolute;
+  z-index: 3;
+  top: 45px;
+  left: 25px;
+  width: 450px;
+  height: 10px;
+  border-radius: 3px;
+  background: red;
+}
+.complete1 {
+  position: absolute;
+  z-index: 3;
+  top: 145px;
+  left: 25px;
+  width: 450px;
+  height: 10px;
+  border-radius: 3px;
+  background: red;
+}
+.complete2 {
+  position: absolute;
+  z-index: 3;
+  top: 245px;
+  left: 25px;
+  width: 450px;
+  height: 10px;
+  border-radius: 3px;
+  background: red;
+}
+.complete3 {
+  position: absolute;
+  z-index: 3;
+  top: 345px;
+  left: 25px;
+  width: 450px;
+  height: 10px;
+  border-radius: 3px;
+  background: red;
+}
+.complete4 {
+  position: absolute;
+  z-index: 3;
+  top: 445px;
+  left: 25px;
+  width: 450px;
+  height: 10px;
+  border-radius: 3px;
+  background: red;
+}
+.complete5 {
+  position: absolute;
+  z-index: 4;
+  top: 25px;
+  left: 45px;
+  width: 10px;
+  height: 450px;
+  border-radius: 3px;
+  background: red;
+}
+.complete6 {
+  position: absolute;
+  z-index: 4;
+  top: 25px;
+  left: 145px;
+  width: 10px;
+  height: 450px;
+  border-radius: 3px;
+  background: red;
+}
+.complete7 {
+  position: absolute;
+  z-index: 4;
+  top: 25px;
+  left: 245px;
+  width: 10px;
+  height: 450px;
+  border-radius: 3px;
+  background: red;
+}
+.complete8 {
+  position: absolute;
+  z-index: 4;
+  top: 25px;
+  left: 345px;
+  width: 10px;
+  height: 450px;
+  border-radius: 3px;
+  background: red;
+}
+.complete9 {
+  position: absolute;
+  z-index: 4;
+  top: 25px;
+  left: 445px;
+  width: 10px;
+  height: 450px;
+  border-radius: 3px;
+  background: red;
+}
+.complete10 {
+  position: absolute;
+  z-index: 5;
+  top: 0px;
+  left: 240px;
+  width: 10px;
+  height: 580px;
+  -webkit-transform: translateY(-30px) translateX(0px) rotate(-45deg);
+  border-radius: 3px;
+  background: red;
+}
+.complete11 {
+  position: absolute;
+  z-index: 5;
+  top: 0px;
+  left: 240px;
+  width: 10px;
+  height: 580px;
+  -webkit-transform: translateY(-30px) translateX(0px) rotate(45deg);
+  border-radius: 3px;
+  background: red;
+}

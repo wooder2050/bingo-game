@@ -1,0 +1,9 @@
+.order-box {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+.order-text {
+  font-size: 16px;
+  font-weight: bold;
+}
