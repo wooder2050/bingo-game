@@ -1,5 +1,9 @@
 # BingoGame 
 
+## 배포 
+![](display.gif)
+https://cocky-dijkstra-ba9cec.netlify.com/(https://cocky-dijkstra-ba9cec.netlify.com/)
+
 ## Introduction
 
 Rebux와 React를 이용해 빙고 게임을 구현하였습니다. 하나의 Store를 만들어 상태 관리를 하였으며, 리듀서 함수가 액션 객체를 파라미터로 이용해 새로운 상태를 반환하도록 했습니다. 리듀서 함수는 순수함수로서 동일한 값에는 동일한 결과를 반환하도록 하였습니다. 컴포넌트는 상태 변화에 따라 Vitual DOM과 DOM 차이가 생기는 부분을 기준으로 나뉘었습니다. 그래서 최소한 랜더링을 하도록 설계하였습니다. 
@@ -11,7 +15,7 @@ Rebux와 React를 이용해 빙고 게임을 구현하였습니다. 하나의 St
 ## Installation
 
 <pre>
-git clone https://github.com/wooder2050/watcha-inline.git
+git clone https://github.com/wooder2050/bingo-game.git
 cd watcha-online
 yarn install
 yarn start
