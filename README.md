@@ -16,7 +16,7 @@ Rebux와 React를 이용해 빙고 게임을 구현하였습니다. 하나의 St
 
 <pre>
 git clone https://github.com/wooder2050/bingo-game.git
-cd watcha-online
+cd bingo-game
 yarn install
 yarn start
 </pre>
