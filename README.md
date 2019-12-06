@@ -2,7 +2,7 @@
 
 ## 배포 
 ![](display.gif)
-https://cocky-dijkstra-ba9cec.netlify.com/(https://cocky-dijkstra-ba9cec.netlify.com/)
+https://cocky-dijkstra-ba9cec.netlify.com
 
 ## Introduction
 
